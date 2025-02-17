@@ -1,0 +1,32 @@
+body {
+    background-image: url(fundo2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: crimson;
+}
+
+h1 {
+    text-align: center;
+    border-color: black;
+    border-style: dashed;
+    border-width: 5px;
+    color: red;
+}
+
+.textos {
+    text-align: center;
+}
+
+#ima {
+    width: 10%;
+    border-radius: 25px;
+    margin-left: 45%;
+    border: solid;
+    border-color: black;
+    border-width: 3px;
+}
+
+h2, h3{
+    color: red;
+    text-align: center;
+}

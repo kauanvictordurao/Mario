@@ -5,7 +5,7 @@ body {
     color: crimson;
 }
 
-h1 {
+.titulo {
     text-align: center;
     border-color: black;
     border-style: dashed;
@@ -14,7 +14,11 @@ h1 {
 }
 
 .subtitulo {
-    border: none;
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    color: red;
 }
 
 #ima {
@@ -25,22 +29,8 @@ h1 {
     border-color: black;
     border-width: 3px;
 }
-    h2, h3 {
-        color: red;
-    }
 
-.mario {
+.personagens {
+    color: blue;
     text-align: center;
-}
-
-.luigi {
-    align-items: end;
-}
-
-.toad {
-    text-align: right;
-}
-
-.yoshi {
-    text-align: justify;
 }

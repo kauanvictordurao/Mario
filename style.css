@@ -2,7 +2,8 @@ body {
     background-image: url(fundo2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    color: crimson;
+    text-align: center;
+    color: blue;
 }
 
 .titulo {
@@ -28,9 +29,4 @@ body {
     border: solid;
     border-color: black;
     border-width: 3px;
-}
-
-.personagens {
-    color: blue;
-    text-align: center;
 }

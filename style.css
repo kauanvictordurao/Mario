@@ -13,6 +13,10 @@ h1 {
     color: red;
 }
 
+.subtitulo {
+    border: none;
+}
+
 #ima {
     width: 10%;
     border-radius: 25px;
@@ -30,7 +34,7 @@ h1 {
 }
 
 .luigi {
-    text-align: left;
+    align-items: end;
 }
 
 .toad {
